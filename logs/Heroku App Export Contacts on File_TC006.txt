@@ -1,0 +1,4 @@
+Test Started: Heroku App Export Contacts on File_TC006
+
+Isagani Lapira, 1994-10-21, new@gmail.com, 09104905440, Street rar Street2 rar, Malolos Bulacan 3000, South Korea
+Wilhelm Miranda, 1994-10-22, wilhelm1233@gmail.com, 09104905441, Street Wil Street2 Wil, Sampaloc Pampanga 4000, New Zealand
